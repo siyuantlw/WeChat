@@ -1,0 +1,15 @@
+{
+    "name": "siyuantlw/we-chat",
+    "description": "微信公众平台开发",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "siyuantlw",
+            "email": "839187696@qq.com"
+        }
+    ],
+    "require": {
+	"php": ">=5.5.0" 
+    }
+}
